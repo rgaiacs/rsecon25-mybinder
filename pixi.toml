@@ -6,6 +6,8 @@ platforms = ["linux-64"]
 version = "0.1.0"
 
 [tasks]
+pandoc = { cmd = ["pandoc", "-f", "markdown", "-t", "html", "-o", "poster-submission-form.html", "poster-submission-form.md"] }
+validate = { cmd = ["python", "validate.py"], depends-on = ["pandoc"] }
 
 [dependencies]
 pandoc = ">=3.6.4,<4"
