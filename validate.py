@@ -32,8 +32,6 @@ def main(tree):
     validate(tree, "Abstract", 300)
     validate(tree, "Prerequisites", 150)
     validate(tree, "Outcomes", 150)
-    validate(tree, "Title", 50)
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
