@@ -3,6 +3,7 @@
 ## Authors
 
 1. Raniere Gaia Costa da Silva
+2. Yuvi Panda
 
 ## Event Type
 
