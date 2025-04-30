@@ -4,6 +4,7 @@
 
 1. Raniere Gaia Costa da Silva
 2. Yuvi Panda
+3. Arnim Bleier
 
 ## Event Type
 
@@ -15,7 +16,13 @@ Celebrating 7 years of The BinderHub Federation
 
 ## Abstract
 
-The BinderHub Federation operates mybinder.org, a 1-click solution to share scientific notebook in a sandbox that the recipient can immediately interact using a web browser. The BinderHub Federation has served millions of researchers for 7 years now! Many workshops and presentations were improved thanks to attendees have access to mybinder.org. The BinderHub Federation is an experiment in running open source infrastructure as a public good by researchers to researchers. Sustainability challenges faced by open source software production are magnified here - we need people time to manage the infrastructure, pay for computational infrastructure required to run the service, operate it reliably by responding to outages in a timely fashion, and fight off abuse from malicious actors. This posters covers the lessons learnt over this 7 years at GESIS Leibniz Institute for the Social Sciences, one member of the federation.
+The idea of Binder was first introduced in 2015 as a means of sharing and reproducing computational work. Since then, the Binder project has evolved into a widely used, production-grade service. The mybinder.org platform enables millions of users each year to launch interactive, shareable scientific notebooks with a single click—requiring nothing more than a web browser.
+
+To meet this growing demand and ensure long-term sustainability, the project matured about seven years ago into the BinderHub Federation, an international collaboration of institutions that collectively operate the infrastructure behind mybinder.org.
+
+This poster offers a behind-the-scenes look at GESIS's role as one of the federation members, highlighting the operational challenges and collaborative principles that underpin the project. We discuss how the BinderHub Federation represents a unique model of open-source infrastructure as a public good that is developed and maintained by researchers, for researchers.
+
+Special attention is also given to the role of the open-source software BinderHub within the German National Research Data Infrastructure (NFDI, NFDI4DS, and Jupyter4NFDI), where it enables reproducibility, accessibility, and the democratization of open computational research practices. Finally, through this lens, we reflect on the broader significance of community-driven infrastructure in modern research software engineering.
 
 ## Prerequisites
 
@@ -23,13 +30,13 @@ Use of mybinder.org requires knowledge of how to use a web browser to gain acces
 
 ## Outcomes
 
-Attendees will be more informed of the cost to run mybinder.org and ways to contribute to it long term sustainability as a community led project.
+Attendees will learn about mybinder.org, about the use of the of the open-source software BinderHub within the context of the German NFDI, and about ways to contribute to the long term sustainability of mybinder.org as a community led project.
 
 ## Accessibility
 
 All content of the workshop is available under a CC-BY licence.
 
-mybinder.org is open source software and available at GitHub.
+mybinder.org is open-source software and available at GitHub.
 
 The poster will makes colour and font friendly to readers with disabilities.
 
@@ -48,7 +55,6 @@ The poster will makes colour and font friendly to readers with disabilities.
 
 ## Acknowledgements
 
-- Arnim Bleier for all 7 years promoting mybinder.org at GESIS Leibniz Institute for the Social Sciences.
 - Kenan Erdogan and Mridul Seth for the years operating the BinderHub server at GESIS Leibniz Institute for the Social Sciences.
 - Min RK, Simon Li, and Erik Sundell for the time helping the BinderHub server operator at GESIS Leibniz Institute for the Social Sciences.
 - All contributors to mybinder.org.
